@@ -16,12 +16,16 @@ Las acciones que porán realizar los usuarios validados mediante un JWT son los 
 - Actualizar un topico.
 - Eliminar tópicos activos.
 
+  ![Topico](https://github.com/Jonathan-Med/ForoHub/blob/main/Imagenes/Topico.png)
+
 <h3>Usuarios</h3>
 
 - Inicio de sesión.
 - Registrar usuario.
 - Borrar usuario.
 - Actualizar usuario.
+
+  ![Usuario](https://github.com/Jonathan-Med/ForoHub/blob/main/Imagenes/Usuario.png)   ![Login](https://github.com/Jonathan-Med/ForoHub/blob/main/Imagenes/Login.png)
 
 <h3>Cursos</h3>
 
@@ -31,12 +35,16 @@ Las acciones que porán realizar los usuarios validados mediante un JWT son los 
 - Listar cursos.
 - Listar curso mediante id.
 
+  ![Curso](https://github.com/Jonathan-Med/ForoHub/blob/main/Imagenes/Curso.png)
+
 <h3>Respuestas</h3>
 
 - Registrar respuesta.
 - Actualizar respuesta.
 - Eliminar respuesta.
 - Listar rspestas.
+
+  ![Respuestas](https://github.com/Jonathan-Med/ForoHub/blob/main/Imagenes/Respuesta.png)
 
 <h2 align="center">Tecnologías Utilizadas</h2>
 
@@ -52,7 +60,7 @@ Las acciones que porán realizar los usuarios validados mediante un JWT son los 
 
 **JUnit:** Framework para el desarrollo de pruebas de software.
 
-**SpringDoc** API para el desarrollo de la documentación.
+**SpringDoc:** API para el desarrollo de la documentación.
 
 <h3 align="center">Documentación</h3>
 
@@ -67,5 +75,5 @@ Las acciones que porán realizar los usuarios validados mediante un JWT son los 
 
 **Debería aparecer lo siguiente:**
 
-
+![Documentación](https://github.com/Jonathan-Med/ForoHub/blob/main/Imagenes/Documentacion.png)
 
